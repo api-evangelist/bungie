@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bungie.net is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bungie.net/
+Bungie.net is a leading video game developer and publisher, best known for creating the Destiny franchise and the Marathon series. The company operates a robust online platform offering game services, community features, and a public API that enables developers to integrate game data, user profiles, and in‑game events into third‑party applications. Bungie emphasizes player engagement, cross‑platform play, and continuous content updates across its titles.
+
+**Areas:** Company · Gaming · VideoGames · API · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bungie.net/)
+- [Documentation](https://help.bungie.net/)
+- [Support](https://help.bungie.net/hc/en-us)
+- [Terms of service](https://www.bungie.net/7/en/Legal/Terms)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bungie/](https://apis.io/providers/bungie/).
